@@ -1,3 +1,4 @@
+//light oj problem no 1000.
 #include<bits/stdc++.h>
 using namespace std;
 
